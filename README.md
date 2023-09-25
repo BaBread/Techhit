@@ -1,6 +1,6 @@
 # Techhit
 
-![Tech Blog](link_to_project_screenshot.png)
+![Tech Blog](./assets/Capture.PNG)
 
 ## Table of Contents
 
