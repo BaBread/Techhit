@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS techhit_db;
+CREATE DATABASE techhit_db;
